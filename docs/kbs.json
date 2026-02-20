@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-02-21T00:48:23.787680",
+  "month": "2026-Feb",
+  "kbs": {
+    "Windows Server 2016": [
+      "KB5075999"
+    ],
+    "Windows Server 2019": [
+      "KB5075904"
+    ],
+    "Windows Server 2022": [
+      "KB5075906"
+    ],
+    "Windows Server 2025": [
+      "KB5075899"
+    ]
+  }
+}
