@@ -1,19 +1,5 @@
 {
-  "generated_at": "2026-03-25T12:58:21.183758",
-  "month": "2026-Mar",
-  "kbs": {
-    "Windows Server 2016": [
-      "KB5078938"
-    ],
-    "Windows Server 2019": [
-      "KB5078752"
-    ],
-    "Windows Server 2022": [
-      "KB5078766"
-    ],
-    "Windows Server 2025": [
-      "KB5078740"
-    ],
-    "Windows ADK for Windows Server 2022": []
-  }
+  "generated_at": "2026-04-08T13:11:02.604608",
+  "month": "2026-Apr",
+  "kbs": {}
 }
